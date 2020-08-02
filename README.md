@@ -4,7 +4,7 @@ Real World OCaml v2
 This is the source code for the Real World OCaml 2nd edition, which is
 still a work in progress.  The original edition was written by Yaron
 Minsky, Anil Madhavapeddy and Jason Hickey, and the revised edition is
-being lead by Yaron Minsky and Anil Madhavapeddy.  There have been
+being led by Yaron Minsky and Anil Madhavapeddy.  There have been
 significant contributions to the revised tooling from Ashish Agarwal,
 Jeremy Yallop, Frederic Bour, and Sander Spies.
 
